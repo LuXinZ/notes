@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "3239def250559b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab4626ce603f8a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "笔记1.0.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c42ab276db5ae73",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c4beba6409f710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c01b5dee90ecf1de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5094a46255c7c441",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b7e37d145ba5090",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c1d9a96083281cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1dc5e6da9a8e16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记1.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8ab4626ce603f8a8",
+  "lastOpenFiles": [
+    "笔记1.0.md"
+  ]
+}
