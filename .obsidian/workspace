@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab4626ce603f8a8",
+        "id": "cd504a0ab7f02ad8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,7 +86,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8ab4626ce603f8a8",
+  "active": "cd504a0ab7f02ad8",
   "lastOpenFiles": [
     "笔记1.0.md"
   ]
